@@ -39,7 +39,7 @@ DIAGNOSTIC_2 = """
 </div>"""
 
 import streamlit as st
-image = Image.open('skin_me_logo.png')
+image = Image.open('CheckMySkin.png')
 st.image(image, output_format="PNG")
 st.title('Bienvenue sur CheckMySkin !')
 
