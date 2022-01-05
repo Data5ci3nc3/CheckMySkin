@@ -30,5 +30,5 @@ We have used the HAM10000 ("Human Against Machine with 10000 training images") t
 ## Outcomes
 - The model has an overall accuracy of 94%.
 - Instead of accuracy, we considered recall (probability for the "moderately dangerous" and "very dangerous" cases to be correctly predicted) as our most important metric.
-- The Minimum Viable Product our team developed can be accessed on the following link: [(shorturl.at/iruC1)]
-- For a presentation and a demo of the CheckMySkin App, please watch the following video : [(shorturl.at/rCMSZ)]
+- The Minimum Viable Product our team developed can be accessed on the following link: https://share.streamlit.io/data5ci3nc3/checkmyskin/app.py
+- For a presentation and a demo of the CheckMySkin App, please watch the following video : https://www.youtube.com/watch?v=E52zx1OAN7w&t=8137s
