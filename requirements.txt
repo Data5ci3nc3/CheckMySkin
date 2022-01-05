@@ -1,0 +1,9 @@
+tensorflow-cpu
+streamlit
+opencv-python-headless
+Pillow
+numpy
+gunicorn
+requests
+joblib
+scikit-learn
